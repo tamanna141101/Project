@@ -205,22 +205,27 @@ void Selection()
         if(p.choose == 1)
         {
         printf("\n\nHospital Name : Dhaka Medical College, Dhaka\n\n\n ");
+        break;
         }
         else if( p.choose == 2)
         {
         printf("\n\nHospital Name : Sir Salimullah Medical College, Dhaka\n\n\n");
+        break;
         }
         else if( p.choose == 3)
         {
         printf("\n\nHospital Name : Kurmitola General Hospital, Dhaka\n\n\n");
+        break;
         }
         else if( p.choose == 4)
         {
         printf("\n\nHospital Name : Mirpur Maternity Hospital, Dhaka\n\n\n");
+        break;
         }
         else if( p.choose == 5)
         {
         printf("\n\nHospital Name : Bangladesh Railway Hospital, Dhaka\n\n\n");
+        break;
         }
         else if( p.choose == 6)
         {
@@ -259,22 +264,27 @@ void Selection1()
             if( p.choose1 == 1)
             {
             printf("\n\nHospital Name : Asgar Ali Hospital, Dhaka\n\n\n");
+            break;
             }
             else if( p.choose1 == 2)
             {
             printf("\n\nHospital Name : Lab-aid Cardiac and Specialized Hospital, Dhaka\n\n\n");
+            break;
             }
             else if( p.choose1 == 3)
             {
             printf("\n\nHospital Name : BIRDEM Hospital, Dhaka\n\n\n");
+            break;
             }
             else if( p.choose1 == 4)
             {
             printf("\n\nHospital Name : Ibn Sina Medical College and Hospital, Dhaka\n\n\n");
+            break;
             }
             else if( p.choose1 == 5)
             {
             printf("\n\nHospital Name : United Hospital Gulshan, Dhaka\n\n\n");
+            break;
             }
             else if( p.choose1 == 6)
             {
@@ -314,25 +324,31 @@ void Selection1()
                 if(p.q==1)
                 {
                 printf("\n\nDepartment Name : Department of Cardiology\n\n\n");
+                break;
                 }
                 else if (p.q == 2)
                 {
                 printf("\n\nDepartment Name :Department of Urology\n\n\n");
+                break;
                 }
                 else if (p.q == 3)
                 {
                 printf("\n\nDepartment Name : Department of Nephrology\n\n\n");
+                break;
                 }
                 else if (p.q == 4)
                 {
                 printf("\n\nDepartment Name : Department of Neuro Medicine\n\n\n");
+                break;
                 }
                 else if (p.q == 5){
                 printf("\n\nDepartment Name : Department of Medicine focuses\n\n\n");
+                break;
                 }
                 else if (p.q == 6)
                 {
                 printf("\n\nDepartment Name : Department of Dermatology\n\n\n");
+                break;
                 }
                 else if( p.q == 7)
                 {
